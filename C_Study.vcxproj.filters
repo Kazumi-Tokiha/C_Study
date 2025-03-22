@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 2">
+      <UniqueIdentifier>{8ad517ef-9684-4cd3-959e-014f67d7f00f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 2\Code 2-7">
+      <UniqueIdentifier>{001793f2-e83d-40dc-a049-c39512d30e56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 2\Kadai_2-6">
+      <UniqueIdentifier>{3569d365-b899-42a7-a452-dfc5b6e4cbd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 3">
+      <UniqueIdentifier>{334685d1-8b52-495f-adaf-d31d2073d521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 3\Code 3-1">
+      <UniqueIdentifier>{40f666c8-ef3b-45e6-8885-764d0df13788}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 3\Kadai_3-8">
+      <UniqueIdentifier>{20e0bbf7-c0df-419b-9873-ca22f6b87b04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 4">
+      <UniqueIdentifier>{60915230-3afa-4f56-b21a-6b85e211dd83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 4\Code 4-1">
+      <UniqueIdentifier>{335c018b-69d8-4054-ba95-f83ddc28fa7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 4\Kadai_4-5">
+      <UniqueIdentifier>{dbf5b638-150e-475f-8211-af7124048a55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 5">
+      <UniqueIdentifier>{90ba1e91-1dd6-421d-a730-b5d800f39e71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 5\Code 5-1">
+      <UniqueIdentifier>{9b4631e5-e52c-48dd-bfd7-2660e576d785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 5\Code 5-2">
+      <UniqueIdentifier>{f70b8cfc-57c1-408b-b88e-a875ffdfb7e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chapter 5\Kadai_5-5">
+      <UniqueIdentifier>{84ba6623-8b9a-4a94-b002-831675ef771a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src_2-7.c">
+      <Filter>ソース ファイル\Chapter 2\Code 2-7</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_2-3.c">
+      <Filter>ソース ファイル\Chapter 2\Kadai_2-6</Filter>
+    </ClCompile>
+    <ClCompile Include="src_3-6-5.c">
+      <Filter>ソース ファイル\Chapter 3\Code 3-1</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_3-3.c">
+      <Filter>ソース ファイル\Chapter 3\Kadai_3-8</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_3-4.c">
+      <Filter>ソース ファイル\Chapter 3\Kadai_3-8</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_4-3.c">
+      <Filter>ソース ファイル\Chapter 4\Kadai_4-5</Filter>
+    </ClCompile>
+    <ClCompile Include="src_4-2.c">
+      <Filter>ソース ファイル\Chapter 4\Code 4-1</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_4-4.c">
+      <Filter>ソース ファイル\Chapter 4\Kadai_4-5</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_4-5.c">
+      <Filter>ソース ファイル\Chapter 4\Kadai_4-5</Filter>
+    </ClCompile>
+    <ClCompile Include="src_5-1-3.c">
+      <Filter>ソース ファイル\Chapter 5\Code 5-1</Filter>
+    </ClCompile>
+    <ClCompile Include="src_4-1-1.c">
+      <Filter>ソース ファイル\Chapter 4\Code 4-1</Filter>
+    </ClCompile>
+    <ClCompile Include="src_5-3.c">
+      <Filter>ソース ファイル\Chapter 5\Code 5-1</Filter>
+    </ClCompile>
+    <ClCompile Include="src_5-4.c">
+      <Filter>ソース ファイル\Chapter 5\Code 5-1</Filter>
+    </ClCompile>
+    <ClCompile Include="src_5-4-1.c">
+      <Filter>ソース ファイル\Chapter 5\Code 5-1</Filter>
+    </ClCompile>
+    <ClCompile Include="src_2-6.c">
+      <Filter>ソース ファイル\Chapter 2\Code 2-7</Filter>
+    </ClCompile>
+    <ClCompile Include="src_5-2.c">
+      <Filter>ソース ファイル\Chapter 5\Code 5-2</Filter>
+    </ClCompile>
+    <ClCompile Include="src_5-7.c">
+      <Filter>ソース ファイル\Chapter 5\Code 5-2</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_5-5.c">
+      <Filter>ソース ファイル\Chapter 5\Kadai_5-5</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_5-3.c">
+      <Filter>ソース ファイル\Chapter 5\Kadai_5-5</Filter>
+    </ClCompile>
+    <ClCompile Include="Kadai_5-4.c">
+      <Filter>ソース ファイル\Chapter 5\Kadai_5-5</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

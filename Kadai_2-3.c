@@ -1,0 +1,14 @@
+//	#include<stdio.h>
+//
+//	int main(void)
+//	{
+//		int age;
+//		int year;
+//
+//		age  = 22;
+//		year = 2025;
+//
+//		printf("%d”N¶‚Ü‚ê‚Ì–¦‚­‚ñ‚Í¡”N%dÎ‚Å‚·\n", year, age);
+//
+//		return 0;
+//	}

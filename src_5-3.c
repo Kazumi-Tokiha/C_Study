@@ -1,0 +1,25 @@
+//	#include<stdio.h>
+//	#include<stdlib.h>
+//	#include<time.h>
+//
+//	int main(void)
+//	{
+//		printf("‚ ‚È‚½‚Ì‰^¨‚ğè‚¢‚Ü‚·B\n");
+//		srand((unsigned)time(NULL));
+//		int fortune = rand() % 5 + 1;
+//
+//		switch (fortune) {
+//		case 1:
+//		case 2:
+//			printf("—Ç\n");
+//			break;
+//
+//		case 3:
+//			printf("•\n");
+//			break;
+//		case 4:
+//		case 5:
+//			printf("ˆ«\n");
+//		}
+//		return 0;
+//	}
